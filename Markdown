@@ -1,0 +1,58 @@
+# Teste
+***
+## Teste
+***
+### Teste
+***
+**Teste**
+*Teste*
+~~Teste~~
+
+Lista numerada:
+
+1. Teste
+1. Teste2
+1. Teste3
+   1. Teste4
+   1. Teste5
+
+Lista demarcada:
+
+* Teste
+* Teste2
+* Teste3
+  * Teste4
+* Teste5
+
+Lista de Tarefas:
+
+- [ ] Teste
+- [ ] Teste2
+- [x] Teste3
+
+[Acesse meu GitHub](https://github.com/LuizHFFerraz) 
+
+***
+Teste | Teste2 | Teste3
+---|---|---
+1 | Luiz | 10
+
+Terminou a Tabela
+***
+
+`Testeeee`
+
+```
+select * from cursos
+order by nome asc;
+```
+
+Teste 🖖 
+
+Para acessar os emojis [clique aqui](https://github.com/ikatyang/emoji-cheat-sheet)
+
+Para colocar os emojis em títulos [clique aqui](https://emojipedia.org/)
+
+> Teste
+
+Para acessar o guia Markdown [clique aqui](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)
